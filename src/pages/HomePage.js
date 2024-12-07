@@ -194,19 +194,19 @@ const HomePage = () => {
               )}
             </form>
             <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-              <a href="mailto:korlavamsi74@gmail.com" className="text-indigo-500 block mb-2" style={{ textDecoration: 'none' }}>Click Here to Email Us</a>
+              <a href="mailto:kluniversity@gmail.com" className="text-indigo-500 block mb-2" style={{ textDecoration: 'none' }}>Click Here to Email Us</a>
             </div>
             <div className="w-full flex justify-center mt-4">
-              <a href="https://www.instagram.com/va_m_c_?igsh=MTR2N21mOHNwb2F2Mw==" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/kluniversityofficial/?hl=en" target="_blank" rel="noopener noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" className="w-12 h-12 mx-2" alt="Social Media 1" />
               </a>
-              <a href="https://www.facebook.com/vamsi.korla?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/KLUniversity/" target="_blank" rel="noopener noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/128/725/725289.png" className="w-12 h-12 mx-2" alt="Social Media 2" />
               </a>
               <a href="mailto:korlavamsi74@gmail.com" target="_blank" rel="noopener noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" className="w-12 h-12 mx-2" alt="Social Media 3" />
               </a>
-              <a href="https://x.com/va_m_c?t=uXvwRcGgPhRdBeKlI0YDLw&s=09" target="_blank" rel="noopener noreferrer">
+              <a href="https://x.com/kluniversity?lang=en" target="_blank" rel="noopener noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/128/2335/2335289.png" className="w-12 h-12 mx-2" alt="Social Media 4" />
               </a>
             </div>
